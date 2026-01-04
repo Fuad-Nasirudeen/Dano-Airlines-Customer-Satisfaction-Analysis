@@ -45,6 +45,10 @@ Dano Airlines, a UK based airline, experienced a drop in customer satisfaction b
 -	Evaluated average arrival and departure delays
 -	Identified lowest-rated services contributing to dissatisfaction
 
+## Business Impact
+-	Identifies delay reduction as a key lever for improving satisfaction
+-	Helps leadership prioritize customer experience investments
+-	Supports data-driven decision-making to increase satisfaction rate
 
 
 ## Visualization and Analysis
@@ -105,6 +109,10 @@ You can Interact with the dashboard live [HERE](https://app.powerbi.com/links/Nh
   Action: Optimize check-in, boarding processes, and gate accessibility.
 
   Expected Impact: Enhances the overall travel experience and reduces frustration.
+
+## Limitations
+-	Survey data is subjective
+-	No cost or operational data to measure feasibility of recommendations
 
 ## Conclusion
 Customer satisfaction at Dano Airlines is heavily influenced by service quality and comfort. Improving inflight service, reducing delays, and enhancing economy-class experience can significantly improve satisfaction levels.
