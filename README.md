@@ -20,12 +20,6 @@ Dano Airlines, a UK based airline, experienced a drop in customer satisfaction b
   -	Customer class
   -	Service ratings (cleanliness, comfort, inflight service, delays)
   -	Arrival and Departure Delays
- 
-## Data Preparation
-- Removed duplicates
--	Handled missing values
--	Standardized categorical fields
--	Converted satisfaction into binary classification (Satisfied / Not Satisfied)
 
 ## Skills/ Concepts Demonstrated
 - Data Cleaning and Transformation
@@ -34,6 +28,15 @@ Dano Airlines, a UK based airline, experienced a drop in customer satisfaction b
 - Dashboard Automation
 
 ## Analysis Process
+ 
+### Data Preparation
+- Removed duplicates
+-	Handled missing values
+-	Standardized categorical fields
+-	Converted satisfaction into binary classification (Satisfied / Not Satisfied)
+
+
+### Analysis
 -	Analyzed satisfaction rate by:
     - Travel type (Business vs Personal)
     -	Class (Business, Economy, Economy Plus)
@@ -41,6 +44,7 @@ Dano Airlines, a UK based airline, experienced a drop in customer satisfaction b
 -	Compared average service ratings between satisfied and unsatisfied passengers
 -	Evaluated average arrival and departure delays
 -	Identified lowest-rated services contributing to dissatisfaction
+
 
 
 ## Visualization and Analysis
