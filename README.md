@@ -9,7 +9,7 @@ Dano Airlines, a UK based airline, experienced a drop in customer satisfaction b
 -	Compare satisfaction across travel types and customer segments
 -	Recommend actionable strategies to improve satisfaction rate
 
-## Dataset
+## Dataset Overview
 -	Source: Airline passenger satisfaction survey
 -	Records: 120,000+ passengers
 -	Scope: Passenger demographics, flight details, service ratings
