@@ -104,7 +104,7 @@ You can Interact with the dashboard live [HERE](https://app.powerbi.com/links/Nh
   Expected Impact: Raises satisfaction in the lowest-performing customer segment.
 - ### Improve Arrival & Departure Convenience:
 
-  Arrival and departure convenience scored 3.06 / 5, indicating moderate dissatisfaction.
+  Arrival and departure convenience scored (3.06 / 5), indicating moderate dissatisfaction.
 
   Action: Optimize check-in, boarding processes, and gate accessibility.
 
