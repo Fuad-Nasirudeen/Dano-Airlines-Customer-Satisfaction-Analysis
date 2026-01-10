@@ -52,7 +52,7 @@ Dano Airlines, a UK based airline, experienced a drop in customer satisfaction b
 
 
 ## Visualization and Analysis
-![dashboard](Dashboard.JPG)
+![dashboard](DanoDashboard.png)
 
 You can Interact with the dashboard live [HERE](https://app.powerbi.com/links/NhU4ugQg_m?ctid=800ec7c1-fe46-4c41-884c-99dd1da43433&pbi_source=linkShare)
 
